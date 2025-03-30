@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
@@ -27,7 +26,7 @@ const Blog = () => {
     },
     {
       id: '3',
-      title: 'Milo's Journey: From Dairy Farm to Sanctuary',
+      title: "Milo's Journey: From Dairy Farm to Sanctuary",
       excerpt: 'This heartwarming story follows Milo, one of our youngest residents, from his rescue from a dairy farm to his new life at our sanctuary.',
       image: 'https://images.unsplash.com/photo-1615272957558-527e556ef6db?auto=format&fit=crop&q=80',
       date: 'April 10, 2023',

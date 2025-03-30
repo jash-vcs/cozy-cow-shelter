@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
@@ -49,7 +48,7 @@ const Gallery = () => {
     {
       name: 'Oliver',
       image: 'https://images.unsplash.com/photo-1615272957558-527e556ef6db?auto=format&fit=crop&q=80',
-      description: 'Oliver was born at our sanctuary after we rescued his mother. He's playful and full of energy.',
+      description: "Oliver was born at our sanctuary after we rescued his mother. He's playful and full of energy.",
       age: '1 year',
       category: 'calves'
     },
@@ -63,7 +62,7 @@ const Gallery = () => {
     {
       name: 'Milo',
       image: 'https://images.unsplash.com/photo-1529944618158-c5a0990d92d6?auto=format&fit=crop&q=80',
-      description: 'Milo is our newest rescue, still adjusting to sanctuary life. He's making friends quickly!',
+      description: "Milo is our newest rescue, still adjusting to sanctuary life. He's making friends quickly!",
       age: '8 months',
       category: 'calves'
     },
